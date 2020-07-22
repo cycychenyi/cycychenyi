@@ -1,16 +1,19 @@
-### Hi there 👋
+## 在各个平台找到我
 
-<!--
-**cycychenyi/cycychenyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Email：chenyi111@whu.edu.cn
 
-Here are some ideas to get you started:
+GitHub：[cycychenyi](https://github.com/cycychenyi)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+知乎：[cycychenyi](https://www.zhihu.com/people/cycychenyi)
+
+QQ：1725145436
+
+微信：cycychenyi-weixin
+
+微博：[cycychenyi](https://weibo.com/u/6700656428)
+
+豆瓣：[陈一](https://www.douban.com/people/148461076/)
+
+Popi 提问箱：[cycychenyi](https://www.popiask.cn/_chenyi) （想说点什么或者问点什么都欢迎 —— 浪矢）
+
+（基本各个平台 cycychenyi 都是我，只要头像是刘看山）
